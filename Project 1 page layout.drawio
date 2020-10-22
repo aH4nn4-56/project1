@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T02:38:59.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43" etag="zxCGvyhDirogDuGDZZN-" version="13.8.1" type="github"><diagram id="LTG1OfOkzgZ0d97xPuGm" name="Page-1">7VhNc5swEP0tOfiYGQMG7GPsxE0nTcYTp01vHRkEqBGICvmrv74rEDYYuSWtyWQ69sGIJ2lXem+1kuhZk3jzgaM0umc+pj2z72961nXPNEemDf8S2BaAbYwKIOTELyBjD8zJT6zAvkKXxMdZraFgjAqS1kGPJQn2RA1DnLN1vVnAaN1rikLcAOYeok30mfgiKtCh6e7xW0zCqPRsOGp+MSobq5lkEfLZugJZNz1rwhkTRSneTDCV3JW8FP2mR2p3A+M4EW06fIsf7ugtfwyfwq8zNv0inrarS2VlhehSTfgCXq8fPz7cwfPzDP4u1PDFtuSEs2XiY2m237PG64gIPE+RJ2vXEASARSKm8GZAUTnAXODN0ZEbOz4gjjCLseBbaFJ2sBSF23psrPeCOCUWVcRwFIZUDIQ7y3uaoKCYegVrToO1f+OIogWmY+S9hHm3CaOM52as6fTGmUygSUAoreBBgB3PAzwTnL3gSo3vjhb9/mmIP+R90CTeHWmIt+yumHc1zDtUSCJSlNQkcH4s5dIaBywRl1meWK6ggeGmm30llEL1zK2QCoBiKVOyyOTjssXvGS8y0FkuIJx5nKSCsGRXW7qAeZNDt4AV4y/hg2gCCUU9ZBAlYQJlD6TEIP1YCk0gb12pipj4vuw+5hgmjxa5KRkXKSOJyHWxxz37WtpaClYQlJuWhJUBlbAEn2gRu/VgGjZjaWBpYsnsKpRGr1nERheL2Ed4GGgXseMN8SI4DfFmnXdHkz1dV0P8YNAV8+UIKtTP0Qp4NvtzjLgXwYZ/KMUfyEdZWuz+AdlIwdqoEXLkE9yI9W7Cf0d7KYPVlEGXSkedidDc+sts5JOVNpPKLHSpEo9Mpd+XmSCBnGTOUf8g01qj32Va2bhNvtZbyfI4kec+DnHBCapk0sJyI8Hms6qjbzLRBe9oMO/GYVspYb1oeIL9aUlhQ3oTAd8NZ2eHZ4dnh2eHGocd3yTbH3tyYzO4Gsh7jO6u8emgwe7O0f52coKj1fDgZOVqbhb2m95SDfPo2ar1Xmnq9sr7q9nRffI/OzDbTl1W127KauhkNf5CVnjdf4jL6ypfM62bXw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-22T14:39:40.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43" etag="DvpDo-k6EqHQLt_eWyiv" version="13.8.1" type="github" pages="3">
+  <diagram id="LTG1OfOkzgZ0d97xPuGm" name="Page-1">
+    <mxGraphModel dx="925" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_mNKlHrRgTgXPoFVtTyv-1" value="&lt;font style=&quot;font-size: 42px&quot;&gt;&lt;b&gt;! DRINK UP !&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="10" width="610" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_mNKlHrRgTgXPoFVtTyv-6" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFE6CC;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="30" y="140" width="790" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="_mNKlHrRgTgXPoFVtTyv-7" value="&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;i&gt;&amp;nbsp;------------------------------------Website Description---------&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="80" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hTmMZU3ANfxQYaxxq0W8-1" value="Backround Picture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=10;fontColor=none;fontStyle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="760" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gByCdwbbGuLMUDs2nLr2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="170" width="290" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="os7l4smWv1ezqO_YT9g8" name="Page-2">
+    <mxGraphModel dx="1915" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ttso_u3LBLwiL2kPYNqr-0" />
+        <mxCell id="ttso_u3LBLwiL2kPYNqr-1" parent="ttso_u3LBLwiL2kPYNqr-0" />
+        <mxCell id="ttso_u3LBLwiL2kPYNqr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;gradientColor=none;fontColor=none;" vertex="1" parent="ttso_u3LBLwiL2kPYNqr-1">
+          <mxGeometry x="-180" y="130" width="970" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="ttso_u3LBLwiL2kPYNqr-4" value="&lt;font style=&quot;font-size: 35px&quot;&gt;Your Saved Breweries&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=none;fontColor=none;" vertex="1" parent="ttso_u3LBLwiL2kPYNqr-1">
+          <mxGeometry x="50" y="10" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zYbkd6wTDCIdjvWOzklJ-0" value="HOME&amp;nbsp; &amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=10;fontColor=none;" vertex="1" parent="ttso_u3LBLwiL2kPYNqr-1">
+          <mxGeometry x="520" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zYbkd6wTDCIdjvWOzklJ-2" value="~Results~" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=23;fontColor=none;" vertex="1" parent="ttso_u3LBLwiL2kPYNqr-1">
+          <mxGeometry x="-90" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zYbkd6wTDCIdjvWOzklJ-4" value="Starred Results" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=23;fontColor=none;" vertex="1" parent="ttso_u3LBLwiL2kPYNqr-1">
+          <mxGeometry x="260" y="760" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zYbkd6wTDCIdjvWOzklJ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=none;" vertex="1" parent="ttso_u3LBLwiL2kPYNqr-1">
+          <mxGeometry x="-140" y="220" width="150" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Odd50zE8WUNc5p4Iq5XY-4" value="&lt;ul&gt;&lt;li&gt;Search 1&lt;/li&gt;&lt;li&gt;Search 2&lt;/li&gt;&lt;li&gt;Search 3&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=23;fontColor=none;" vertex="1" parent="ttso_u3LBLwiL2kPYNqr-1">
+          <mxGeometry x="-180" y="270" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzqSRszrcM8H5VhsWgka-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Backround pic&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=23;fontColor=none;" vertex="1" parent="ttso_u3LBLwiL2kPYNqr-1">
+          <mxGeometry x="680" y="140" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="w6HJnQd2WqPEmZlDVXmo" name="Page-3">
+    <mxGraphModel dx="925" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="lto_FhWdgbbbxbLd0pkr-0" />
+        <mxCell id="lto_FhWdgbbbxbLd0pkr-1" parent="lto_FhWdgbbbxbLd0pkr-0" />
+        <mxCell id="tGDOyRbdLibrgo0KBwm3-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;labelBackgroundColor=none;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=none;" vertex="1" parent="lto_FhWdgbbbxbLd0pkr-1">
+          <mxGeometry x="60" y="80" width="370" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="pDWQRH3cxURm_uXYYMBl-0" value="starred" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=23;fontColor=none;" vertex="1" parent="lto_FhWdgbbbxbLd0pkr-1">
+          <mxGeometry x="220" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pDWQRH3cxURm_uXYYMBl-1" value="results" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=none;" vertex="1" parent="lto_FhWdgbbbxbLd0pkr-1">
+          <mxGeometry x="100" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvnDuZY05DTNZeV0WAG5-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;labelBackgroundColor=none;gradientColor=none;fontFamily=Helvetica;fontSize=23;fontColor=none;" vertex="1" parent="lto_FhWdgbbbxbLd0pkr-1">
+          <mxGeometry x="300" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvnDuZY05DTNZeV0WAG5-1" value="spin the wheel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=23;fontColor=none;" vertex="1" parent="lto_FhWdgbbbxbLd0pkr-1">
+          <mxGeometry x="320" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
